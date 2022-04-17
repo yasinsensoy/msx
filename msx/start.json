@@ -1,0 +1,5 @@
+{
+    "name": "Medya Arşivi",
+    "version": "1.0.0",
+    "parameter": "content:user:http://{SERVER}/msx/kullanicilar.php"
+}
